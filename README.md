@@ -12,7 +12,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:https://github.com/markuscoding/profile-card-component-main
-- Live Site URL:https://markuscoding.github.io/stats-preview-card-component-main/
+- Live Site URL:https://markuscoding.github.io/profile-card-component-main/
 
 ### Screenshot
 
